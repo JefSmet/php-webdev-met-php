@@ -16,9 +16,9 @@
 										<a href="index.html"><img src="/resources/images/logo.png" alt="" /></a>
 									</div>
 									<div class="call">
-										Call us directly
-										<a class="phone" href="tel:+1-212-226-3126">+1 212-226-3126</a>
-										<a class="email" href="mailto:hello@consulte.co">hello@consulte.co</a>
+										<?= __('footer.contact.title', $res); ?>
+										<a class="phone" href="tel:<?= __('footer.contact.phone', $res); ?>"><?= __('footer.contact.phone', $res); ?></a>
+										<a class="email" href="mailto:<?= __('footer.contact.email', $res); ?>"><?= __('footer.contact.email', $res); ?></a>
 									</div>
 								</div>
 							</div>

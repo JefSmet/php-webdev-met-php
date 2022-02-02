@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>My consulting website</title>
+    <title><?= $res[$page.'.title'] ?? 'My consulting website'; ?></title>
     <meta name="description" content="My company website bla bla bla"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 

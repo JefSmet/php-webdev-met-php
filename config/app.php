@@ -33,4 +33,6 @@
         'service-detail' => 'style-three',
         'service' => '',
     ];
+
+    $res = include 'resources/nl.php';
 ?>
