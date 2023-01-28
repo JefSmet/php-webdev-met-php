@@ -5,6 +5,7 @@
     {
         $array = explode('/', $_SERVER['REQUEST_URI']);
         $array = array_filter($array); // remove empty elements from array
+        $array = array_map(fn($value) => strtok($value, '?'), $array);
         $array = array_map('urlencode', $array);
 
         $_GET['p'] = $array[1] ?? '';
