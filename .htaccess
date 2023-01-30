@@ -3,5 +3,5 @@
 	RewriteEngine on
 	RewriteCond %{REQUEST_FILENAME} !-f
 	RewriteCond %{REQUEST_FILENAME} !-d
-	RewriteRule ^([a-zA-Z-]{0,100})\/{0,1}$ /index.php?p=$1
+	RewriteRule ^([a-zA-Z-]{2})\/([a-zA-Z-]{0,100})\/{0,1}$ /index.php?lang=$1&p=$2
 </IfModule>

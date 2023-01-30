@@ -8,7 +8,8 @@
         $array = array_map(fn($value) => strtok($value, '?'), $array);
         $array = array_map('urlencode', $array);
 
-        $_GET['p'] = $array[1] ?? '';
+        $_GET['lang'] = $array[1] ?? 'nl';
+        $_GET['p'] = $array[2] ?? '';
     }
 
 	error_reporting(0);
@@ -35,5 +36,11 @@
         'service' => '',
     ];
 
-    $res = include 'resources/nl.php';
+    $lang = match($_GET['lang']) {
+        'fr' => 'fr',
+        'en' => 'en',
+        default => 'nl',
+    };
+
+    $res = include "resources/{$lang}.php";
 ?>
