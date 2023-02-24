@@ -162,16 +162,36 @@
                     <!-- End Main Menu -->
 
                     <!-- Outer Box -->
-                    <div class="outer-box">
-                        <!-- Search Btn -->
-                        <div class="search-box-btn search-box-outer"><span class="icon icofont-search"></span></div>
-                        <!-- Mobile Navigation Toggler -->
-                        <div class="mobile-nav-toggler"><span class="icon ti-menu"></span></div>
-                    </div>
+                    
+                        <div class="outer-box">
+                            <!-- Search Btn -->
+
+                                <div class="search-box-btn search-box-outer">
+
+                                    <span class="icon icofont-search"></span>
+
+                                </div>
+                            <!-- End Search Btn -->
+
+                            <!-- Mobile Navigation Toggler -->
+
+                                <div class="mobile-nav-toggler">
+
+                                    <span class="icon ti-menu"></span>
+
+                                </div>
+
+                            <!-- Mobile Navigation Toggler -->
+                        </div>
+
+                    <!-- End Outer Box -->
 
                 </div>
+
             </div>
+
         </div>
+
     <!--End Header Upper-->
 
     <!-- Mobile Menu  -->
