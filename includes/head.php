@@ -66,13 +66,17 @@
 
                             <!-- End Social Box -->
                         </div>
+
                     <!-- End Top Right -->
 
                 </div>
+
             </div>
+
         </div>
 
-        <!--- End Header Top --->
+
+    <!--- End Header Top --->
 
     <!-- Header Upper -->
         <div class="header-upper">
