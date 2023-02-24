@@ -40,7 +40,7 @@
                                 <ul class="info-list">
                                     <li><a href="mailto:hello@consulte.co"><span class="icon icofont-envelope"></span> hello@consulte.co</a></li>
                                     <li><a href="tel:+1212-226-3126"><span class="icon icofont-phone"></span> +1212-226-3126</a></li>
-                                    <li><a href="contact.html"><span class="icon icofont-clock-time"></span> Mon - Sat: 8.00 - 17.00, Sunday Closed</a></li>
+                                    <li><a href="contact.php"><span class="icon icofont-clock-time"></span> Mon - Sat: 8.00 - 17.00, Sunday Closed</a></li>
                                 </ul>
 
                             <!--- End Info List -->
@@ -76,7 +76,7 @@
 
                     <div class="pull-left logo-box">
 
-                        <div class="logo"><a href="index.html"><img src="/resources/images/logo.png" alt="" title=""></a></div>
+                        <div class="logo"><a href="index.php"><img src="/resources/images/logo.png" alt="" title=""></a></div>
 
                     </div>
 
@@ -145,7 +145,7 @@
             <div class="close-btn"><span class="icon lnr lnr-cross"></span></div>
 
             <nav class="menu-box">
-                <div class="nav-logo"><a href="index.html"><img src="/resources/images/logo.png" alt="" title=""></a></div>
+                <div class="nav-logo"><a href="index.php"><img src="/resources/images/logo.png" alt="" title=""></a></div>
                 <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
             </nav>
         </div>
