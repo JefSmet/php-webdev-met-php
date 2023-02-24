@@ -203,9 +203,15 @@
 
             <!-- End Menu Backdrop -->
 
-            <div class="close-btn">
-                <span class="icon lnr lnr-cross"></span>
-            </div>
+            <!-- Close Button -->
+
+                <div class="close-btn">
+
+                    <span class="icon lnr lnr-cross"></span>
+                    
+                </div>
+
+            <!-- Close Button -->
 
             <nav class="menu-box">
 
