@@ -91,10 +91,12 @@
 
                     </div>
 
-                    <div class="nav-outer pull-left clearfix">
+                    <!-- Main Menu -->
 
-                        <!-- Main Menu -->
+                        <div class="nav-outer pull-left clearfix">
+                                                    
                             <nav class="main-menu navbar-expand-md">
+
                                 <div class="navbar-header">
 
                                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -108,34 +110,49 @@
                                 </div>
 
                                 <div class="navbar-collapse show collapse clearfix" id="navbarSupportedContent">
+
                                     <ul class="navigation clearfix">
+
                                         <li><a href="index.php">Home</a></li>
                                         <li class="current"><a href="about.php">About Us</a></li>
                                         <li class="dropdown"><a href="#">Service</a>
+
                                             <ul>
                                                 <li><a href="service.php">Service</a></li>
                                                 <li><a href="service-detail.php">Service Detail</a></li>
                                             </ul>
+
                                         </li>
+
                                         <li class="dropdown"><a href="#">Projects</a>
+
                                             <ul>
                                                 <li><a href="project.php">Project</a></li>
                                                 <li><a href="project-details.php">Project Details</a></li>
                                             </ul>
+
                                         </li>
+
                                         <li class="dropdown"><a href="#">Blog</a>
+
                                             <ul class="from-right">
                                                 <li><a href="blog.php">Our Blog</a></li>
                                                 <li><a href="blog-detail.php">Blog Detail</a></li>
                                             </ul>
+
                                         </li>
+
                                         <li><a href="contact.php">Contact</a></li>
+
                                     </ul>
+
                                 </div>
 
-                        </nav>
+                            </nav>                       
 
-                    </div>
+                        </div>
+
+                    <!-- End Main Menu -->
 
                     <!-- Outer Box -->
                     <div class="outer-box">
