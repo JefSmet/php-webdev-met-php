@@ -197,8 +197,11 @@
     <!-- Mobile Menu  -->
 
         <div class="mobile-menu">
+            <!-- Menu Backdrop -->
 
-            <div class="menu-backdrop"></div>
+                <div class="menu-backdrop"></div>
+
+            <!-- End Menu Backdrop -->
 
             <div class="close-btn">
                 <span class="icon lnr lnr-cross"></span>
@@ -215,7 +218,7 @@
                 </div>
 
             </nav>
-            
+
         </div>
     <!-- End Mobile Menu -->
 
