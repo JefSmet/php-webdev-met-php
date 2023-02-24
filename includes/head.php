@@ -34,8 +34,11 @@
                 <div class="inner-container clearfix">
 
                     <!-- Top Left -->
+
                         <div class="top-left">
+
                             <!-- Info List -->
+
 
                                 <ul class="info-list">
                                     <li><a href="mailto:hello@consulte.co"><span class="icon icofont-envelope"></span> hello@consulte.co</a></li>
@@ -44,7 +47,9 @@
                                 </ul>
 
                             <!--- End Info List -->
+
                         </div>
+
                     <!-- End Top Left -->
 
                     <!-- Top Right -->
@@ -65,6 +70,7 @@
                                 </ul>
 
                             <!-- End Social Box -->
+
                         </div>
 
                     <!-- End Top Right -->
@@ -79,6 +85,7 @@
     <!--- End Header Top --->
 
     <!-- Header Upper -->
+
         <div class="header-upper">
 
             <div class="auto-container">
@@ -94,7 +101,7 @@
                     <!-- Main Menu -->
 
                         <div class="nav-outer pull-left clearfix">
-                                                    
+
                             <nav class="main-menu navbar-expand-md">
 
                                 <div class="navbar-header">
@@ -148,7 +155,7 @@
 
                                 </div>
 
-                            </nav>                       
+                            </nav>
 
                         </div>
 
