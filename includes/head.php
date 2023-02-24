@@ -208,22 +208,25 @@
                 <div class="close-btn">
 
                     <span class="icon lnr lnr-cross"></span>
-                    
+
                 </div>
 
-            <!-- Close Button -->
+            <!-- End Close Button -->
 
-            <nav class="menu-box">
+            <!--- Menu Box --->
+                <nav class="menu-box">
 
-                <div class="nav-logo">
-                    <a href="index.php"><img src="/resources/images/logo.png" alt="" title=""></a>
-                </div>
+                    <div class="nav-logo">
+                        <a href="index.php"><img src="/resources/images/logo.png" alt="" title=""></a>
+                    </div>
 
-                <div class="menu-outer">
-                    <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
-                </div>
+                    <div class="menu-outer">
+                        <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
+                    </div>
 
-            </nav>
+                </nav>
+                
+            <!--- End Menu Box --->
 
         </div>
     <!-- End Mobile Menu -->
