@@ -162,7 +162,7 @@
                     <!-- End Main Menu -->
 
                     <!-- Outer Box -->
-                    
+
                         <div class="outer-box">
                             <!-- Search Btn -->
 
@@ -195,14 +195,27 @@
     <!--End Header Upper-->
 
     <!-- Mobile Menu  -->
+
         <div class="mobile-menu">
+
             <div class="menu-backdrop"></div>
-            <div class="close-btn"><span class="icon lnr lnr-cross"></span></div>
+
+            <div class="close-btn">
+                <span class="icon lnr lnr-cross"></span>
+            </div>
 
             <nav class="menu-box">
-                <div class="nav-logo"><a href="index.php"><img src="/resources/images/logo.png" alt="" title=""></a></div>
-                <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
+
+                <div class="nav-logo">
+                    <a href="index.php"><img src="/resources/images/logo.png" alt="" title=""></a>
+                </div>
+
+                <div class="menu-outer">
+                    <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
+                </div>
+
             </nav>
+            
         </div>
     <!-- End Mobile Menu -->
 
